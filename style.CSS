@@ -1,0 +1,33 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color:A1D2CE; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: 002400;
+}
+
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
+
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
+
+body {
+  text-align: center;
+}
+p {
+  font-family: cursive;
+}
+html {
+  font-size: 24px;
+}
